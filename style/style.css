@@ -141,6 +141,7 @@ body{
 }
 .video1 video{
   width: 100%;
+  margin: 10px auto;
 }
 .resume h2{
   font-size: 25px;
